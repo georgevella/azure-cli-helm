@@ -1,0 +1,1 @@
+docker build . -t coindenacs.azurecr.io/azure-cli-helm:2.0.37 -f .\dockerfile
